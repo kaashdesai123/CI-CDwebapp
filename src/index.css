@@ -1,0 +1,25 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  width: 600px;
+}
+
+.SearchBar input {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+}
+
+.BuildFailure {
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.BuildFailure h2 {
+  margin: 0;
+}
+
+.BuildFailure p {
+  margin: 5px 0;
+}
